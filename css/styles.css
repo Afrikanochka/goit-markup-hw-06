@@ -647,6 +647,7 @@ img {
   height: 50px; */
   margin-left: 12px;
   cursor: pointer;
+  border: none;
 }
 .icon-send {
   width: 24px;
